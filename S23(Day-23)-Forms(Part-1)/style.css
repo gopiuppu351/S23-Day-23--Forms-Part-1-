@@ -1,0 +1,27 @@
+form{
+    background-color: #9EDF9C;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 500;
+    
+}
+
+form div{
+    margin: 15px;
+}
+
+form label{
+    display: inline-block;
+    width: 150px;
+}
+
+fieldset{
+    margin: 15px;
+}
+
+button{
+    color: #6439FF;
+
+}
+
